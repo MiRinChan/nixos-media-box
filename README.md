@@ -2,7 +2,7 @@
 
 |           包装盒           |        说明书(我不会改)        |
 | :------------------------: | :----------------------------: |
-| ![](./.readme/box_all.png) | ![](./.readme/instruction.jpg) |
+| ![](./.readme/box_all.jpg) | ![](./.readme/instruction.jpg) |
 
 ## 使用
 
